@@ -2,4 +2,4 @@
 
 ## Web Development Project 🔽
 
-![](Images/Project-preview.png)
+![]()
